@@ -1,29 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T05:30:43.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hRSNAXHF-FGM_XYl_hJo" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T07:11:51.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="REswt_QxHGu3c_jxNHLh" version="16.1.0" type="github">
   <diagram id="Qxbphi_HgbGu3oZOCzEO" name="Page-1">
-    <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sbdkTP7jbUCkFi-5sdZv-21" value="http" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="280" y="-500" width="40" height="20" as="geometry" />
+          <mxGeometry x="280" y="-515" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sbdkTP7jbUCkFi-5sdZv-22" value="PC웹" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="-490" width="70" height="30" as="geometry" />
+          <mxGeometry x="170" y="-520" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sbdkTP7jbUCkFi-5sdZv-23" value="모바일웹" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="-450" width="70" height="30" as="geometry" />
+          <mxGeometry x="170" y="-480" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sbdkTP7jbUCkFi-5sdZv-24" value="모바일앱" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="-410" width="70" height="30" as="geometry" />
+          <mxGeometry x="170" y="-420" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sbdkTP7jbUCkFi-5sdZv-25" value="게이트웨이" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
           <mxGeometry x="350" y="-490" width="25.57" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZzH9KNNfggxzfjHFjbsU-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sbdkTP7jbUCkFi-5sdZv-22" target="sbdkTP7jbUCkFi-5sdZv-25">
+        <mxCell id="ZzH9KNNfggxzfjHFjbsU-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="sbdkTP7jbUCkFi-5sdZv-22" target="sbdkTP7jbUCkFi-5sdZv-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="-260" as="sourcePoint" />
             <mxPoint x="440" y="-310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f3BeQx6x7O_l8TRIaPHZ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="sbdkTP7jbUCkFi-5sdZv-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="-450" as="sourcePoint" />
+            <mxPoint x="350" y="-470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3BeQx6x7O_l8TRIaPHZ-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sbdkTP7jbUCkFi-5sdZv-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="-417.5" as="sourcePoint" />
+            <mxPoint x="350" y="-470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3BeQx6x7O_l8TRIaPHZ-3" value="http" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3BeQx6x7O_l8TRIaPHZ-4" value="http" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-440" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
