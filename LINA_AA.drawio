@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T05:10:00.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="15.9.4" etag="qMeH2DMMjQRxCT6h7Eqw" type="github"><diagram id="Qxbphi_HgbGu3oZOCzEO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-28T05:16:43.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3BAa_EQzZ9NLfKcLNSxV" version="15.9.4" type="github">
+  <diagram id="Qxbphi_HgbGu3oZOCzEO" name="Page-1">
+    <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sbdkTP7jbUCkFi-5sdZv-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sbdkTP7jbUCkFi-5sdZv-22" value="PC웹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-400" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sbdkTP7jbUCkFi-5sdZv-23" value="모바일웹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sbdkTP7jbUCkFi-5sdZv-24" value="모바일앱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sbdkTP7jbUCkFi-5sdZv-25" value="게이트웨이" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="310" y="-400" width="52" height="61" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
