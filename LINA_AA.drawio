@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T02:40:39.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="dBx-11C6L-k4Akqez2KW" version="16.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-24T05:55:01.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="1h0BJPe19dxXryPb4ack" version="16.3.0" type="github" pages="5">
   <diagram id="Qxbphi_HgbGu3oZOCzEO" name="어플리케이션 구성도">
     <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -699,7 +699,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7r9eLYW1NKd3hgUxFRQJ-0" value="PC Web" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cZffUykQLIYs4MnuiYbf-1">
-          <mxGeometry x="140" y="200" width="70" height="40" as="geometry" />
+          <mxGeometry x="100" y="177.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7r9eLYW1NKd3hgUxFRQJ-9" value="고객" style="swimlane;" vertex="1" parent="cZffUykQLIYs4MnuiYbf-1">
           <mxGeometry x="310" y="100" width="260" height="180" as="geometry" />
