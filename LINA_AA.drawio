@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T06:24:07.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="83D4P8Z17DVgm-GR5Top" version="16.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-25T07:09:27.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="LRc8L3KQskIFf2SNX5a0" version="16.4.5" type="github" pages="5">
   <diagram id="Qxbphi_HgbGu3oZOCzEO" name="어플리케이션 구성도">
     <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -598,17 +598,11 @@
         <mxCell id="OLWdwA_Rt3D_bq2t0JaH-11" value="&lt;font style=&quot;font-size: 15px&quot;&gt;ldc-api-check&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instances;fillColor=#F58534;gradientColor=none;labelBackgroundColor=none;labelBorderColor=default;" parent="fiPWs730zKKrzLu-IrML-1" vertex="1">
           <mxGeometry x="591" y="427" width="60" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="OLWdwA_Rt3D_bq2t0JaH-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="fiPWs730zKKrzLu-IrML-1" source="OLWdwA_Rt3D_bq2t0JaH-14" target="OLWdwA_Rt3D_bq2t0JaH-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OLWdwA_Rt3D_bq2t0JaH-14" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;labelBackgroundColor=none;labelBorderColor=default;" parent="fiPWs730zKKrzLu-IrML-1" vertex="1">
-          <mxGeometry x="79.5" y="479" width="41" height="78" as="geometry" />
-        </mxCell>
         <mxCell id="OLWdwA_Rt3D_bq2t0JaH-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="fiPWs730zKKrzLu-IrML-1" source="OLWdwA_Rt3D_bq2t0JaH-16" target="OLWdwA_Rt3D_bq2t0JaH-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLWdwA_Rt3D_bq2t0JaH-16" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;labelBackgroundColor=none;labelBorderColor=default;" parent="fiPWs730zKKrzLu-IrML-1" vertex="1">
-          <mxGeometry x="61" y="369" width="78" height="76" as="geometry" />
+          <mxGeometry x="61" y="388" width="78" height="76" as="geometry" />
         </mxCell>
         <mxCell id="OLWdwA_Rt3D_bq2t0JaH-17" value="EKS" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks_cloud;labelBackgroundColor=none;labelBorderColor=default;" parent="fiPWs730zKKrzLu-IrML-1" vertex="1">
           <mxGeometry x="680" y="291" width="78" height="78" as="geometry" />
@@ -626,7 +620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GbY7N8A9WzZ5OqcEBaUI" name="AS-IS 기준 도메인분류">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cZffUykQLIYs4MnuiYbf-0" />
         <mxCell id="cZffUykQLIYs4MnuiYbf-1" parent="cZffUykQLIYs4MnuiYbf-0" />
@@ -758,7 +752,7 @@
         <mxCell id="7r9eLYW1NKd3hgUxFRQJ-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="cZffUykQLIYs4MnuiYbf-1" source="7r9eLYW1NKd3hgUxFRQJ-0" target="7r9eLYW1NKd3hgUxFRQJ-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_BTL36umlWq8OEBgZvUc-0" value="I/F: 352 ea" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cZffUykQLIYs4MnuiYbf-1">
+        <mxCell id="_BTL36umlWq8OEBgZvUc-0" value="I/F: 352 ea" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cZffUykQLIYs4MnuiYbf-1" vertex="1">
           <mxGeometry x="640" y="390" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
