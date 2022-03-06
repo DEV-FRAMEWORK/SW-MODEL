@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T15:08:37.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="uGzilEQAEQlzHoKw7PAL" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T15:17:38.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="9uV5P_hnqaMYGLfuQ8LV" version="16.6.6" type="github">
   <diagram id="Bi3bca1TGVXY3VoCAUmT" name="Page-1">
     <mxGraphModel dx="1248" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,36 +21,60 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qvVwnLX1XJH-410xyP4X-5" value="Front End" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="140" width="100" height="670" as="geometry" />
-        </mxCell>
-        <mxCell id="qvVwnLX1XJH-410xyP4X-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="qvVwnLX1XJH-410xyP4X-5">
-          <mxGeometry x="50" y="340" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qvVwnLX1XJH-410xyP4X-18" value="Save JWT in browser localstorage" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="qvVwnLX1XJH-410xyP4X-17" parent="qvVwnLX1XJH-410xyP4X-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="320" as="sourcePoint" />
+        <mxCell id="qvVwnLX1XJH-410xyP4X-30" value="Show login failed" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0058" y="-10" relative="1" as="geometry">
+            <mxPoint x="139.4473684210525" y="602" as="targetPoint" />
+            <mxPoint x="319.5" y="602" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qvVwnLX1XJH-410xyP4X-13" value="Valid user, Return Success W/ coginto JWT" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qvVwnLX1XJH-410xyP4X-6" target="qvVwnLX1XJH-410xyP4X-5">
-          <mxGeometry x="0.2473" y="-25" relative="1" as="geometry">
-            <mxPoint x="589.5" y="545" as="sourcePoint" />
-            <mxPoint x="319.4473684210525" y="545" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="480" y="420" />
-              <mxPoint x="480" y="415" />
+              <mxPoint x="230" y="602" />
+              <mxPoint x="230" y="602" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qvVwnLX1XJH-410xyP4X-21" value="Not a valid user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qvVwnLX1XJH-410xyP4X-6" target="qvVwnLX1XJH-410xyP4X-5">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="qvVwnLX1XJH-410xyP4X-31" value="show dashboard" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0058" y="-10" relative="1" as="geometry">
+            <mxPoint x="139.4473684210525" y="672" as="targetPoint" />
+            <mxPoint x="319.5" y="672" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="390" y="620" />
-              <mxPoint x="390" y="620" />
+              <mxPoint x="170" y="672" />
+              <mxPoint x="170" y="672" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvVwnLX1XJH-410xyP4X-5" value="Front End" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="qvVwnLX1XJH-410xyP4X-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="qvVwnLX1XJH-410xyP4X-5">
+          <mxGeometry x="50" y="294" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvVwnLX1XJH-410xyP4X-18" value="Save JWT in browser localstorage" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="qvVwnLX1XJH-410xyP4X-17" parent="qvVwnLX1XJH-410xyP4X-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="274" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="274" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvVwnLX1XJH-410xyP4X-13" value="Valid user, Return Success W/ coginto JWT" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qvVwnLX1XJH-410xyP4X-6" target="qvVwnLX1XJH-410xyP4X-5">
+          <mxGeometry x="0.0242" y="-20" relative="1" as="geometry">
+            <mxPoint x="589.5" y="545" as="sourcePoint" />
+            <mxPoint x="319.4473684210525" y="545" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="390" />
+              <mxPoint x="580" y="390" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvVwnLX1XJH-410xyP4X-21" value="Not a valid user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="689.5" y="562" as="sourcePoint" />
+            <mxPoint x="319.4473684210525" y="562" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="562" />
+              <mxPoint x="390" y="562" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -72,13 +96,13 @@
           <mxGeometry x="850" y="140" width="100" height="660" as="geometry" />
         </mxCell>
         <mxCell id="qvVwnLX1XJH-410xyP4X-22" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="560" width="610" height="120" as="geometry" />
+          <mxGeometry x="120" y="502" width="610" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qvVwnLX1XJH-410xyP4X-26" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="140" width="20" height="720" as="geometry" />
         </mxCell>
         <mxCell id="qvVwnLX1XJH-410xyP4X-27" value="Invalid user" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="200" y="572" width="80" height="26" as="geometry" />
+          <mxGeometry x="200" y="514" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qvVwnLX1XJH-410xyP4X-28" value="API Gateway" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="140" width="100" height="660" as="geometry" />
