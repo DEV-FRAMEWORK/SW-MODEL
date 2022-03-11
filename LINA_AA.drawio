@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T15:38:24.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="xfJeNdD4POD_ClQMicWL" version="17.1.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-11T01:48:29.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="riglQ3-CmwSg_75lVzk3" version="17.1.0" type="github" pages="7">
   <diagram id="Qxbphi_HgbGu3oZOCzEO" name="어플리케이션 구성도">
-    <mxGraphModel dx="1186" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,7 +284,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y7ddNs59SBJhQDps6xnX" name="사용인증처리">
-    <mxGraphModel dx="1186" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ETmV-992Y79VUaXAOF13-0" />
         <mxCell id="ETmV-992Y79VUaXAOF13-1" parent="ETmV-992Y79VUaXAOF13-0" />
@@ -351,7 +351,7 @@
         <mxCell id="voEi7bxRcnvw05KsGS6P-11" value="Role Table" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" parent="ETmV-992Y79VUaXAOF13-1" vertex="1">
           <mxGeometry x="720" y="220" width="62" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="1gvSfMsM9jcMNPon2lHr-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ETmV-992Y79VUaXAOF13-1" source="voEi7bxRcnvw05KsGS6P-12" target="voEi7bxRcnvw05KsGS6P-15">
+        <mxCell id="1gvSfMsM9jcMNPon2lHr-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="ETmV-992Y79VUaXAOF13-1" source="voEi7bxRcnvw05KsGS6P-12" target="voEi7bxRcnvw05KsGS6P-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="voEi7bxRcnvw05KsGS6P-12" value="인증API" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_1;" parent="ETmV-992Y79VUaXAOF13-1" vertex="1">
@@ -362,10 +362,10 @@
             <mxPoint x="-6" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1gvSfMsM9jcMNPon2lHr-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ETmV-992Y79VUaXAOF13-1" source="voEi7bxRcnvw05KsGS6P-15" target="voEi7bxRcnvw05KsGS6P-19">
+        <mxCell id="1gvSfMsM9jcMNPon2lHr-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="ETmV-992Y79VUaXAOF13-1" source="voEi7bxRcnvw05KsGS6P-15" target="voEi7bxRcnvw05KsGS6P-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1gvSfMsM9jcMNPon2lHr-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ETmV-992Y79VUaXAOF13-1" source="voEi7bxRcnvw05KsGS6P-15" target="voEi7bxRcnvw05KsGS6P-20">
+        <mxCell id="1gvSfMsM9jcMNPon2lHr-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="ETmV-992Y79VUaXAOF13-1" source="voEi7bxRcnvw05KsGS6P-15" target="voEi7bxRcnvw05KsGS6P-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="voEi7bxRcnvw05KsGS6P-15" value="Redis" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.registry;" parent="ETmV-992Y79VUaXAOF13-1" vertex="1">
@@ -377,7 +377,7 @@
         <mxCell id="voEi7bxRcnvw05KsGS6P-20" value="계약API" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_3;" parent="ETmV-992Y79VUaXAOF13-1" vertex="1">
           <mxGeometry x="580" y="500" width="48" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="1gvSfMsM9jcMNPon2lHr-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ETmV-992Y79VUaXAOF13-1" source="voEi7bxRcnvw05KsGS6P-23" target="voEi7bxRcnvw05KsGS6P-15">
+        <mxCell id="1gvSfMsM9jcMNPon2lHr-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="ETmV-992Y79VUaXAOF13-1" source="voEi7bxRcnvw05KsGS6P-23" target="voEi7bxRcnvw05KsGS6P-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="voEi7bxRcnvw05KsGS6P-23" value="User ID, Accesstoken,&lt;br&gt;Refreshtoken&lt;br&gt;User Role" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ETmV-992Y79VUaXAOF13-1" vertex="1">
@@ -392,48 +392,48 @@
         <mxCell id="bF2CLfDP8ee7JAKAB8co-2" value="/code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ETmV-992Y79VUaXAOF13-1" vertex="1">
           <mxGeometry x="198" y="470" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jvl7jR6lICjdrQBCMsAf-0" value="&lt;h1&gt;ACL(Access Control List)&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: , &amp;#34;malgun gothic&amp;#34; , &amp;#34;맑은 고딕&amp;#34; , &amp;#34;dotum&amp;#34; , , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;RABC방식은 권한(Role)이라는 중간 매개체를 통해서 사용자에게 부여하는데 반해서, ACL 방식은 사용자에게 직접 권한을 부여하는 방식이다.&lt;/span&gt;&lt;br style=&quot;color: rgb(34 , 34 , 34) ; font-family: , &amp;#34;malgun gothic&amp;#34; , &amp;#34;맑은 고딕&amp;#34; , &amp;#34;dotum&amp;#34; , , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: , &amp;#34;malgun gothic&amp;#34; , &amp;#34;맑은 고딕&amp;#34; , &amp;#34;dotum&amp;#34; , , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;사용자 Terry에 직접 &quot;게시판 관리, 메뉴 관리, 사용자 관리, 게시물 관리, 회원 가입 승인&quot; 권한을 부여하는 방식이 ACL 방식이다.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="ETmV-992Y79VUaXAOF13-1">
-          <mxGeometry x="80" y="700" width="990" height="120" as="geometry" />
+        <mxCell id="Jvl7jR6lICjdrQBCMsAf-0" value="&lt;h1&gt;ACL(Access Control List)&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: , &amp;#34;malgun gothic&amp;#34; , &amp;#34;맑은 고딕&amp;#34; , &amp;#34;dotum&amp;#34; , , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;RABC방식은 권한(Role)이라는 중간 매개체를 통해서 사용자에게 부여하는데 반해서, ACL 방식은 사용자에게 직접 권한을 부여하는 방식이다.&lt;/span&gt;&lt;br style=&quot;color: rgb(34 , 34 , 34) ; font-family: , &amp;#34;malgun gothic&amp;#34; , &amp;#34;맑은 고딕&amp;#34; , &amp;#34;dotum&amp;#34; , , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: , &amp;#34;malgun gothic&amp;#34; , &amp;#34;맑은 고딕&amp;#34; , &amp;#34;dotum&amp;#34; , , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;사용자 Terry에 직접 &quot;게시판 관리, 메뉴 관리, 사용자 관리, 게시물 관리, 회원 가입 승인&quot; 권한을 부여하는 방식이 ACL 방식이다.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="ETmV-992Y79VUaXAOF13-1" vertex="1">
+          <mxGeometry x="50" y="710" width="990" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Jvl7jR6lICjdrQBCMsAf-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="ETmV-992Y79VUaXAOF13-1" source="Jvl7jR6lICjdrQBCMsAf-1" target="Jvl7jR6lICjdrQBCMsAf-2">
+        <mxCell id="Jvl7jR6lICjdrQBCMsAf-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="ETmV-992Y79VUaXAOF13-1" source="Jvl7jR6lICjdrQBCMsAf-1" target="Jvl7jR6lICjdrQBCMsAf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jvl7jR6lICjdrQBCMsAf-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="ETmV-992Y79VUaXAOF13-1" source="Jvl7jR6lICjdrQBCMsAf-1" target="Jvl7jR6lICjdrQBCMsAf-3">
+        <mxCell id="Jvl7jR6lICjdrQBCMsAf-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ETmV-992Y79VUaXAOF13-1" source="Jvl7jR6lICjdrQBCMsAf-1" target="Jvl7jR6lICjdrQBCMsAf-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="950" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jvl7jR6lICjdrQBCMsAf-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ETmV-992Y79VUaXAOF13-1" source="Jvl7jR6lICjdrQBCMsAf-1" target="Jvl7jR6lICjdrQBCMsAf-4">
+        <mxCell id="Jvl7jR6lICjdrQBCMsAf-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="ETmV-992Y79VUaXAOF13-1" source="Jvl7jR6lICjdrQBCMsAf-1" target="Jvl7jR6lICjdrQBCMsAf-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="960" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jvl7jR6lICjdrQBCMsAf-1" value="User:james.park" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ETmV-992Y79VUaXAOF13-1">
+        <mxCell id="Jvl7jR6lICjdrQBCMsAf-1" value="User:james.park" style="rounded=0;whiteSpace=wrap;html=1;" parent="ETmV-992Y79VUaXAOF13-1" vertex="1">
           <mxGeometry x="220" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jvl7jR6lICjdrQBCMsAf-2" value="사용자관리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ETmV-992Y79VUaXAOF13-1">
+        <mxCell id="Jvl7jR6lICjdrQBCMsAf-2" value="사용자관리" style="rounded=1;whiteSpace=wrap;html=1;" parent="ETmV-992Y79VUaXAOF13-1" vertex="1">
           <mxGeometry x="460" y="840" width="195" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jvl7jR6lICjdrQBCMsAf-3" value="게시물 관리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ETmV-992Y79VUaXAOF13-1">
+        <mxCell id="Jvl7jR6lICjdrQBCMsAf-3" value="게시물 관리" style="rounded=1;whiteSpace=wrap;html=1;" parent="ETmV-992Y79VUaXAOF13-1" vertex="1">
           <mxGeometry x="462" y="940" width="195" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jvl7jR6lICjdrQBCMsAf-4" value="회원 가입 승인" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ETmV-992Y79VUaXAOF13-1">
+        <mxCell id="Jvl7jR6lICjdrQBCMsAf-4" value="회원 가입 승인" style="rounded=1;whiteSpace=wrap;html=1;" parent="ETmV-992Y79VUaXAOF13-1" vertex="1">
           <mxGeometry x="462" y="1020" width="195" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jvl7jR6lICjdrQBCMsAf-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="ETmV-992Y79VUaXAOF13-1">
+        <mxCell id="Jvl7jR6lICjdrQBCMsAf-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="ETmV-992Y79VUaXAOF13-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="1079" as="sourcePoint" />
             <mxPoint x="420" y="839" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jvl7jR6lICjdrQBCMsAf-9" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: , &amp;quot;malgun gothic&amp;quot; , &amp;quot;맑은 고딕&amp;quot; , &amp;quot;dotum&amp;quot; , , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;이러한 API 권한 인가 체크는 인증(Authentication)이 끝난 후에, 인가에 사용된 API AccessToken을 이용하여 사용자 정보를 조회하고, 사용자 정보에 연관된 권한 정보(Permission 또는 Role)를 받아서 이 권한 정보를 기반으로 API사용 권한을 인가하는 방법을 사용한다.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ETmV-992Y79VUaXAOF13-1">
+        <mxCell id="Jvl7jR6lICjdrQBCMsAf-9" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: , &amp;quot;malgun gothic&amp;quot; , &amp;quot;맑은 고딕&amp;quot; , &amp;quot;dotum&amp;quot; , , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;이러한 API 권한 인가 체크는 인증(Authentication)이 끝난 후에, 인가에 사용된 API AccessToken을 이용하여 사용자 정보를 조회하고, 사용자 정보에 연관된 권한 정보(Permission 또는 Role)를 받아서 이 권한 정보를 기반으로 API사용 권한을 인가하는 방법을 사용한다.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ETmV-992Y79VUaXAOF13-1" vertex="1">
           <mxGeometry x="80" y="1100" width="880" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="OhTbijznZTCl3FTnPJgZ" name="API인증_인가">
-    <mxGraphModel dx="1186" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mHDQSJEf6qvNHqb_if6g-0" />
         <mxCell id="mHDQSJEf6qvNHqb_if6g-1" parent="mHDQSJEf6qvNHqb_if6g-0" />
